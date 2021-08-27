@@ -1,0 +1,6 @@
+env
+obj
+static/dist/*
+*.pyproj.user
+*.pyproj
+__pycache__
